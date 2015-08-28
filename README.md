@@ -3,7 +3,7 @@ A small plugin to handle long list scroll using IScroll
 
 The idea behind this plugin is to limit the number of list item in dom to reduce the overall dom elements in a page, hence increase the page performance (Primarly on phonegap applications).
 
-Include iscroll.js http://iscrolljs.com/ (probe version), and listScroller.js
+Include jquery, iscroll.js probe version (http://iscrolljs.com/), and listScroller.js
 
 Sample HTML
 ```html
